@@ -1,7 +1,7 @@
 # Python
 
-python  -> Gives us version 2
-python3 -> Gives us version 3
+1. python  -> Gives us version 2
+2. python3 -> Gives us version 3
 
 Files built based on version 3.
 
